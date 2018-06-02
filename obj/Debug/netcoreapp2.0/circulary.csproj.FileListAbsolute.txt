@@ -1,0 +1,11 @@
+/home/indiana/Documents/DataStructures/circulary/bin/Debug/netcoreapp2.0/circulary.deps.json
+/home/indiana/Documents/DataStructures/circulary/bin/Debug/netcoreapp2.0/circulary.runtimeconfig.json
+/home/indiana/Documents/DataStructures/circulary/bin/Debug/netcoreapp2.0/circulary.runtimeconfig.dev.json
+/home/indiana/Documents/DataStructures/circulary/bin/Debug/netcoreapp2.0/circulary.dll
+/home/indiana/Documents/DataStructures/circulary/bin/Debug/netcoreapp2.0/circulary.pdb
+/home/indiana/Documents/DataStructures/circulary/obj/Debug/netcoreapp2.0/circulary.csprojAssemblyReference.cache
+/home/indiana/Documents/DataStructures/circulary/obj/Debug/netcoreapp2.0/circulary.csproj.CoreCompileInputs.cache
+/home/indiana/Documents/DataStructures/circulary/obj/Debug/netcoreapp2.0/circulary.AssemblyInfoInputs.cache
+/home/indiana/Documents/DataStructures/circulary/obj/Debug/netcoreapp2.0/circulary.AssemblyInfo.cs
+/home/indiana/Documents/DataStructures/circulary/obj/Debug/netcoreapp2.0/circulary.dll
+/home/indiana/Documents/DataStructures/circulary/obj/Debug/netcoreapp2.0/circulary.pdb
